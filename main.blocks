@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="u1mWq!}Whk7e?Y}4y+=z" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="ZVdio8*$Q5bAftO4r*oy"><value name="TIMES"><shadow type="math_whole_number" id="1pJyX:/5KBaxdW}x[yvw"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="k]HzyB3l`hdt~|IZ*9gp"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="X7Syb=xiiF=!{)B]=V{:"><value name="pause"><shadow type="timePicker" id="LBUd1h5Aa9R4[?OudU_*"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="@D2?8$c%G6++`TEHH9h6"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="MLQs-F(UBLuM37i)57Rz"><value name="pause"><shadow type="timePicker" id="U#RFWZvGcuQ5=S_zVq(N"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement><next><block type="device_clear_display" id="O(IGT5#4sYTRMS91X}J#"></block></next></block></statement></block></xml>
